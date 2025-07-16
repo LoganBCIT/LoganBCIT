@@ -43,7 +43,7 @@ Oh — and when I’m not doing that? I’m training an AI to dominate in the ga
 
 ### ☎️ Reach Me
 - Email: [logananderson4549@gmail.com)
-- LinkedIn: [[linkedin.com/in/logan-dutton-anderson](https://linkedin.com/in/logan-dutton-anderson](https://www.linkedin.com/in/logan-dutton-anderson-79277421b/))
+- LinkedIn: [https://www.linkedin.com/in/logan-dutton-anderson-79277421b/]
 - Location: Vancouver, BC 🍁
 
 ---
