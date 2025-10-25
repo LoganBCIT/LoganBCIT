@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Logan — Programmer, Problem-Solver, AI Enthusiast
 
-Welcome to my GitHub! I’m currently a developer at **OSI Maritime Systems**, where I’m building real-time object detection systems using **YOLO** to make maritime navigation smarter and safer. I'm also the founder of **Clutch AI**, a project under Enactus BCIT that's changing the way teams manage Agile schedules using Slack, Trello, and ChatGPT.
+Welcome to my GitHub! I’m currently Studying AI/ML at BCIT, and I am an intern developer at **OSI Maritime Systems**, where I’m building real-time object detection systems using **YOLO** to make maritime navigation smarter and safer. I'm also the founder of **Clutch AI**, a project under Enactus BCIT that's changing the way teams manage Agile schedules using Slack, Trello, and ChatGPT.
 
 Oh — and when I’m not doing that? I’m training an AI to dominate in the game of **Abalone**!
 
