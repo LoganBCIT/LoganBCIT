@@ -1,56 +1,74 @@
-## 👋 Hey, I’m Logan — Programmer, Problem-Solver, AI Enthusiast
+# Hey, I'm Logan
 
-Welcome to my GitHub! I’m currently Studying AI/ML at BCIT, and I am an intern developer at **OSI Maritime Systems**, where I’m building real-time object detection systems using **YOLO** to make maritime navigation smarter and safer. I'm also the founder of **Clutch AI**, a project under Enactus BCIT that's changing the way teams manage Agile schedules using Slack, Trello, and ChatGPT.
+  I'm a software developer from Vancouver focused on full-stack development, AI/ML, computer vision, and developer tooling.
 
-Oh — and when I’m not doing that? I’m training an AI to dominate in the game of **Abalone**!
+  I enjoy building practical systems, understanding how their pieces fit together, and turning rough ideas into reliable software.
 
----
+  ## Programming
 
-### ⚓ What I'm Doing at OSI Maritime Systems
-- 🔭 Developing a full-scale object detection system with YOLOv8
-- ⚙️ Aligning with internal compliance practices for defense-grade software
-- 🧪 Testing prototypes across simulated navigation environments
-- 💡 Collaborating with engineers and researchers on sensor fusion and data modeling
+  ### Languages
 
-> OSI has given me the chance to work on real tech with real-world impact. It’s been a dream come true.
+  - TypeScript and JavaScript
+  - Python
+  - SQL
+  - HTML and CSS
+  - Java
 
----
+  ### Development
 
-### 🤖 Clutch AI – The Slack Bot That Gets You
-- 🧠 Built for teams: Integrates ChatGPT with Trello and Slack for smarter planning
-- 🔁 Conversational command builder with list summarization and function execution
-- 📌 Stores and syncs board data locally (and soon: to the cloud!)
-- 🧑‍🏫 Aims to teach businesses how to integrate AI the right way
+  - React, Next.js, and Node.js
+  - REST APIs and backend services
+  - SQLite, MySQL, and data modelling
+  - Docker and GitHub Actions
+  - Automated testing and CI workflows
+  - Local-first application architecture
 
-> Clutch AI is my heart project — where business meets bots and chaos meets clarity.
+  ### AI and machine learning
 
----
+  - PyTorch and YOLO
+  - Object detection and image processing
+  - OCR and classification pipelines
+  - Feature engineering and model evaluation
+  - Time-series and quantitative research tooling
+  - Reproducible experiments and chronological validation
 
-### 🧩 The Abalone AI Side Quest
-- 🧠 Designed a game-playing agent to outwit humans in **Abalone**
-- 🏁 Implemented heuristic evaluation, minimax, and alpha-beta pruning
-- 💥 Learned that brute force is cool, but smart force is cooler
+  ## My development stack
 
----
+  I use Claude Code alongside an Obsidian knowledge base to connect programming work with research, planning, technical decisions, and long-term project context.
 
-### 📚 What I’m Learning
-- Data pipelines for computer vision systems
-- Responsible AI deployment in business tools
-- GitHub mastery (one branch at a time)
-- How to balance 3 projects and still remember to eat 🧃
+  This setup helps me:
 
----
+  - Keep documentation close to the code
+  - Preserve useful context between development sessions
+  - Turn research and ideas into actionable work
+  - Track technical decisions and lessons learned
+  - Use AI as a collaborator while keeping important decisions human-reviewed
 
-### ☎️ Reach Me
-- Email: [logananderson4549@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/logan-dutton-anderson-79277421b/]
-- Location: Vancouver, BC 🍁
+  I also work with Git worktrees, structured project documentation, automated checks, and local tooling to keep parallel development organized.
 
----
+  ## Selected work
 
-### ⚡ Fun Fact
-My work laptop is called **Boot Whisperer**. My desktop is **Boot Slayer**. They’re battle-hardened and energized, just like me.
+  ### Computer vision
 
----
+  Built object-detection and image-processing workflows using Python, PyTorch, and YOLO, including a Pokémon card recognition and pricing prototype combining detection, OCR, symbol classification, and market-data collection.
 
-Thanks for stopping by! Whether you're into ships, Slack bots, or strategy games, I’m always down to connect 🚀
+  ### Quantitative research
+
+  Built tooling for backtesting and evaluating trading ideas with realistic costs, chronological validation, Monte Carlo analysis, portfolio metrics, experiment tracking, and baseline ML comparisons.
+
+  ### Full-stack applications
+
+  Built applications with React, Next.js, Node.js, SQL databases, API integrations, authentication, local persistence, automated tests, and CI workflows.
+
+  ## Currently exploring
+
+  - Better AI-assisted development workflows
+  - Reliable evaluation of machine-learning systems
+  - Local-first software and personal knowledge tooling
+  - Computer vision and multimodal applications
+  - Developer tools that make complex projects easier to understand
+
+  ## Connect
+
+  - [LinkedIn](https://www.linkedin.com/in/logan-dutton-anderson-79277421b/)
+  - [Email](mailto:logananderson4549@gmail.com)
