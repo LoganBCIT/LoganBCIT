@@ -4,117 +4,61 @@
 
   # Logan Dutton-Anderson
 
-  ### Software Developer · AI/ML · Computer Vision
+  ### Full-Stack and AI Developer · Applied Computer Science student at BCIT
 
-  Building practical software and better ways to organize complex technical work.
+  I build web apps, MVPs and AI features end to end, and I fix bugs, at a fixed price per milestone.
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-dutton-anderson-79277421b/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logananderson4549@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lduttonanderson@gmail.com)
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## About me
+## What I can take off your plate
 
-  I'm a software developer from Vancouver focused on full-stack development, AI/ML, computer vision, and developer tooling.
+- A web app or MVP: data model, login and the screens your team uses
+- A new feature or API integration in an app you already have
+- An AI feature (chat, summaries or data extraction) with a test set that checks the answers
+- A bug fixed at the root cause, with tests
+- A script that turns a spreadsheet into the report someone rebuilds by hand
 
-  I enjoy understanding how complicated systems fit together, turning rough ideas into working software, and building tools that remain understandable as they grow.
+## How I work
 
-  ## Development stack
+1. Before I start, we agree in writing on the price and what "done" means.
+2. I write tests that check "done" first, then build until they pass.
+3. You get a working version to try. Two rounds of changes per milestone are included.
+4. 30-day warranty: if something I delivered stops working as agreed, I fix it.
+5. You keep the passwords to your live site and accounts.
 
-  <div align="center">
+## Tools I use most
 
-  [![Core Technologies](https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,html,css,tailwind&perline=10)](https://skillicons.dev)
+<div align="center">
 
-  [![Tools and Infrastructure](https://skillicons.dev/icons?i=mysql,sqlite,docker,git,githubactions,pytorch,vscode,obsidian&perline=8)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,express,python,fastapi,postgres,docker,git&perline=12)](https://skillicons.dev)
 
-  </div>
+</div>
 
-  ### Programming
+JavaScript, TypeScript, Vue 3, React, Next.js, Node.js, Express, Python, FastAPI, PostgreSQL and Docker.
 
-  - TypeScript, JavaScript, Python, SQL, HTML, CSS, and Java
-  - React, Next.js, Node.js, and REST APIs
-  - Relational databases, data modelling, and local persistence
-  - Automated testing, CI workflows, and Git-based development
-  - Dockerized applications and development environments
+## Selected work
 
-  ### AI and machine learning
+**[multer-file-size-fix](https://github.com/LoganBCIT/multer-file-size-fix): a practice fix for a real open-source bug.**
+multer is a file upload library for Node.js. In its issue [#1348](https://github.com/expressjs/multer/issues/1348),
+a file exactly at the size limit was rejected. I worked from a copy of the code taken before the maintainers fixed it,
+so their fix wasn't visible. My fix found the same root cause with a smaller change (9 lines added against their 15)
+and added 12 tests. The maintainers' own error-handling tests pass 24 of 24 against it. Review caught a mistake in my
+first version, and I fixed it. This was practice, not client work, and I didn't send it to the multer project,
+because they had already fixed the bug.
 
-  - PyTorch and YOLO
-  - Object detection and image processing
-  - OCR and classification pipelines
-  - Feature engineering and model evaluation
-  - Time-series analysis and quantitative research
-  - Reproducible experiments and chronological validation
+## Background
 
-  ## My AI-assisted workflow
+- BCIT Computer Systems Technology diploma, AI and Machine Learning option. Graduated December 2025 with distinction.
+- Now in BCIT's Bachelor of Science in Applied Computer Science.
+- 2025 and 2026: software development intern, two terms. Rebuilt the front end of an internal AI assistant in Vue 3,
+  built its features, extended its answer-scoring test harness, and trained an object detection model in Python and PyTorch.
 
-  <div align="center">
+## Contact
 
-  ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-  ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git_Worktrees-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-  </div>
-
-  I use **Claude Code with an Obsidian knowledge base** to connect programming work with research, planning, technical decisions, and long-term project context.
-
-  My workflow combines:
-
-  - AI-assisted programming and code review
-  - Persistent project context in Obsidian
-  - Documentation stored close to the code
-  - Git worktrees for parallel development
-  - Automated checks and repeatable verification
-  - Human review of important technical decisions
-
-  The goal isn't to generate as much code as possible. It's to use AI without losing architectural understanding, ownership, or engineering judgment.
-
-  ## Areas of focus
-
-  <table>
-  <tr>
-  <td width="33%" valign="top">
-
-  ### Computer vision
-
-  Object detection, OCR, classification, dataset tooling, and image-processing workflows using Python, PyTorch, and YOLO.
-
-  </td>
-  <td width="33%" valign="top">
-
-  ### Full-stack development
-
-  Applications built with React, Next.js, Node.js, SQL databases, authentication, API integrations, testing, and CI.
-
-  </td>
-  <td width="33%" valign="top">
-
-  ### Research tooling
-
-  Software for backtesting, experiment tracking, chronological validation, portfolio analysis, and machine-learning evaluation.
-
-  </td>
-  </tr>
-  </table>
-
-  ## Currently exploring
-
-  - AI-assisted software-development workflows
-  - Local-first knowledge and developer tooling
-  - Reliable evaluation of machine-learning systems
-  - Computer vision and multimodal applications
-  - Software architecture for long-running projects
-
-  ---
-
-  <div align="center">
-
-  ### Let's connect
-
-  I'm interested in applied AI, developer tooling, computer vision, and thoughtful software engineering.
-
-  [LinkedIn](https://www.linkedin.com/in/logan-dutton-anderson-79277421b/) · [Email](mailto:logananderson4549@gmail.com)
-
-  </div>
+Send me what you need built: [lduttonanderson@gmail.com](mailto:lduttonanderson@gmail.com) or
+[LinkedIn](https://www.linkedin.com/in/logan-dutton-anderson-79277421b/).
